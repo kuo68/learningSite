@@ -1,0 +1,17 @@
+body{
+	font-family: "Ariel";
+	background-color: skyblue;
+}
+
+#meme{
+	left: 200px;
+	position: absolute;
+	max-height: 100px;
+	max-width: 1000000px;
+}
+#meme2{
+	left: 500px;
+	position: absolute;
+	max-height: 100px;
+	max-width: 1000000px;
+}
